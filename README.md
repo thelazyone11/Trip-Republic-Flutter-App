@@ -6,4 +6,6 @@ All the Images used in the app is taken from the Internet.
 
 ## 📸 ScreenShots
 
+<img src="screenshot/Adobe_20201002_133055.jpg"/>
+<img src="screenshot/Adobe_20201002_133153.jpg"/>
 
